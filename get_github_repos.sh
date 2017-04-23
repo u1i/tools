@@ -15,7 +15,7 @@ else
 fi
 
 echo Working...
-for d in $(seq 2)
+for d in $(seq 20)
 do
 	wget --quiet -O $tmpfile.$d "https://github.com/$username?page=$d"
 done
