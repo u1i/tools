@@ -1,2 +1,2 @@
-# changeme
+# Uli's Shell Tools
 
