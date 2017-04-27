@@ -1,0 +1,4 @@
+# displays the IP address that an external webserver will see if *this* client makes an HTTP request
+# thanks commandlinefu
+
+curl ifconfig.me
